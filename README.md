@@ -1,2 +1,2 @@
 # DevilanD
-DevilanD is a kali lunix hacking tool installer for termux_
+DevilanD is a  hacking tool installer for termux_
