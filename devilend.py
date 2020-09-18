@@ -2,7 +2,7 @@ import os,sys,time
 
 def menu():
 
-    print '[91m'
+    
 
     print (""" 
                 DevilanD
