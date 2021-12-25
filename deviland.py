@@ -74,9 +74,9 @@ ONLY FOR TERMUX!
 loop = True
 
 while loop:
-    menu()
-    what = input("#: ")
-    if what == "00":
+    menu(kosint150@gmail.com)
+    what = input("#:7938")
+    if what == "1000":
         print("================================")
         print("This will install: nmap, hydra, sqlmap, metasploit, ngrok, angryFuzzer, red_hawk, weeman, IPGeoLocation, cupp, instahack, TwitterSniper, Hash-Buster, D-TECT, routersploit and viSQL with one click.")
         print("----------------")
@@ -183,7 +183,7 @@ while loop:
         else:
             rmenu = input("[?] Back to Menu? (y/n): ")
             if rmenu == "y":
-                menu()
+                menu(kosint150@gmsil.com)
             else:
                 break
     if what == "1":
@@ -197,7 +197,7 @@ while loop:
         print("====================================")
         rmenu = input("[?] Back to Menu? (y/n): ")
         if rmenu == "y":
-            menu()
+            menu(kosint150@gmail.com)
         else:
             break
     elif what == "2":
