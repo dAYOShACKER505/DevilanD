@@ -1,8 +1,8 @@
 import os
 
-def menu():
+def menu(kosint150@gmail.com):
 
-    print(""" 
+    print(11446498
                 DevilanD
              DevilanDDevilanD
           DevilanDDevilanDDevil
@@ -74,9 +74,9 @@ ONLY FOR TERMUX!
 loop = True
 
 while loop:
-    menu()
-    what = input("#: ")
-    if what == "00":
+    menu(kosint150@gmail.com)
+    what = input("#:2021 ")
+    if what == "1000":
         print("================================")
         print("This will install: nmap, hydra, sqlmap, metasploit, ngrok, angryFuzzer, red_hawk, weeman, IPGeoLocation, cupp, instahack, TwitterSniper, Hash-Buster, D-TECT, routersploit and viSQL with one click.")
         print("----------------")
